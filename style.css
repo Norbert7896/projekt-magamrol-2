@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+    background-color:rgb(12, 12, 74);
+    color: white;
+    margin:50px;
+    font-family: "Libre Baskerville", serif;
+}
+h1{
+    text-align: center;
+    font-family: "League Spartan", sans-serif;
+}
+.bene{
+    width: 200px;
+    height: 100px;
+    float:left;
+}
+.beregszasz{
+    margin:auto;
+    width: 200px;
+    height: 100px;
+}
+.maglod{
+    width: 200px;
+    height: 100px;
+    float:right;
+}
+.Hartyan{
+    width: 200px;
+    height: 100px;
+    float:left;
+}
+.Bethlen{
+    width: 200px;
+    height: 100px;
+    float:right;
+}
+
+.weboldal3szoveg1{
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.weboldal3szoveg2{
+    text-align: left;
+    margin-top: 90px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.weboldal3szoveg3{
+    text-align: left;
+    margin-top: 90px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+img{
+    float: right;
+    width: 200px;
+    height: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
